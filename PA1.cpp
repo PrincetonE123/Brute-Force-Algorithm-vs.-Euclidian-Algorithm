@@ -1,5 +1,5 @@
 /****************************************
-PA-1-Source.cpp
+ProgrammingAssignment-1-Source.cpp
 
 Princeton Epeagba, J00701287
 ****************************************/
